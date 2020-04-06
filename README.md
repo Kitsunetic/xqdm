@@ -30,6 +30,6 @@ hello world: 100%|████████████████████�
 [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 ```
 
-## install
+## Installation
 
 There is no pip installation support.
