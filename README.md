@@ -30,6 +30,8 @@ hello world: 100%|████████████████████�
 [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 ```
 
+Since `squre()` have `0.5sec` runtime and there are two worker, progressbar have approximately ideal speed of `4.00it/s`.
+
 ## Installation
 
 There is no pip installation support.
