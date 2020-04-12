@@ -20,7 +20,8 @@ def square(x):
   time.sleep(0.5)
   return x**2
 
-xqdm(square, range(10), num_workers=2, desc='hello world')
+result = xqdm(square, range(10), num_workers=2, desc='hello world')
+print(result)
 ```
 
 the result is
