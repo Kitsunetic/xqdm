@@ -1,6 +1,6 @@
 # xqdm
 
-tqdm wrapper for multiprocessing
+Progressbar on multiprocessing
 
 ## Usage
 
