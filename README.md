@@ -35,4 +35,6 @@ Since `squre()` have `0.5sec` runtime and there are two worker, progressbar have
 
 ## Installation
 
-There is no pip installation support.
+```bash
+pip install git+https+https://github.com/Kitsunetic/xqdm.git
+```
